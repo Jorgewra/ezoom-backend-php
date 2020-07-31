@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "1705366d-a1be-4382-a7f0-193bcb75c23c",
+		"name": "EZOOM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET CURSOS",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/index.php/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"index.php",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
