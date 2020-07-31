@@ -1,9 +1,8 @@
 # BACKEND EZOOM
 
  ## Info
-    - Codeigniter 3
- [here](https://codeigniter.com/userguide3/index.html)
-    -  Modelo de banco de dados  [here](https://codeigniter.com/userguide3/index.html)
+   - Codeigniter 3 [here](https://codeigniter.com/userguide3/index.html)
+   - Modelo de banco de dados  [here](https://github.com/Jorgewra/ezoom-backend-php/tree/master/doc)
 
 ## Authors
 
